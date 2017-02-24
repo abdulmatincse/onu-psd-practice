@@ -1,0 +1,161 @@
+/*global sestion*/
+.padding-top{
+	padding-top: 50px;
+}
+.padding-bottom{padding-bottom: 60PX;}
+span{
+	color: #87D37C;
+}
+/*end*/
+.header{
+	background: url(img/headerbg.png);
+	background-size: cover;
+	height: 662px;
+
+}
+.header img {
+	margin: 0;
+	padding: 0;
+}
+.header-menu{
+	background-color: ;
+margin-top: 24px;
+}
+.header-menuul ul li:hover {
+color: #000;
+background-color: #000;
+}
+.header-text{
+	margin-top: 85px;
+}
+.header-text h2{
+	border: 1px solid #fff;
+	width: 400px;
+	height: 150px;
+	margin: 0 auto;
+	padding: 5%;
+	font-size: 44px;
+	color: #fff;
+}
+.header-text p{
+	margin-top: 10px;
+	color: #fff;
+}
+
+
+
+
+.about-text p{
+margin-top: 50px;
+}
+
+
+
+.service-area{
+	background-color: #E1E1E1;
+}
+
+
+.single-portfolio-photo {
+    margin-bottom: 20px;
+}
+
+/*.pricing-table span p{
+    border-radius: 100%;
+    border: 2px solid #fff;
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    font-size: 30px;
+    margin-top: 35px;
+    padding-top: 35px;
+}*/
+
+.pricing-table{
+	background-color: #39393A;
+	color: #fff;
+	 padding-bottom: 20px;
+}
+.price-top p{
+    border-radius: 100%;
+    border: 2px solid #fff;
+    height: 120px;
+    width: 120px;
+    margin: 0 auto;
+    padding-top: 35px;
+    font-size: 30px;
+    margin-top: 35px;
+}
+.pricing-table ul{
+	margin-right: 40px;
+}
+.pricing-table ul li{
+	list-style: none;
+	text-align: center;
+	margin: 25px;
+	border-bottom: 1px solid #fff;
+}
+.pricing-table:hover{
+	background-color: #87D37C;
+}
+.pricing-table:hover span p{
+	background-color: #fff;
+	color: #87D37C;
+}
+
+.pricing-table ul li:last-child a {
+    background-color: #fff;
+    color: #000;
+    height: 31px;
+    /* margin: 39px; */
+    padding: 6px 41px 2px 41px;
+    text-decoration: none;
+}
+
+.pricing-bottom-area img{
+	width: 100%;
+}
+
+.single-contact i {
+    font-size: 55px;
+}
+.single-contact i:hover{
+	color: #87D37C;
+}
+
+
+
+/*isotop*/
+
+.isotopn ul{
+   text-align: center;;
+    margin-bottom: 20px;
+}
+.isotopn ul li{
+    display: inline-block;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px 40px 10px 40px;
+    background: gray;
+    color: white;
+    transition: 1s
+}
+.isotopn ul li:hover{
+    color: #000;
+    background: #C1B0B8;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.grid{
+    width: 100%;
+    margin:0 auto;
+}
+
+.grid img{
+    float: left;
+    margin-left: 30%;
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+
+/**/
